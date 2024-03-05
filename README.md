@@ -1,4 +1,4 @@
-# Introduction to Natural Language Processing with Hugging Face Transformers
+# Creating anime characters using DCGANs and Keras
 # Author : Cognitive Class AI
 # Mentee Info
 # Program : IBM Advance AI
